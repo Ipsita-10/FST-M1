@@ -111,8 +111,8 @@
             </con:settings>
             <con:endpoint>https://petstore.swagger.io</con:endpoint>
             <con:request>{
-	"id": 78123,
-	"name": "Monkey",
+	"id": 22334,
+	"name": "Alladi",
 	"status": "alive"
 }</con:request>
             <con:originalUri>https://petstore.swagger.io/v2/pet</con:originalUri>
@@ -242,8 +242,8 @@
             </con:settings>
             <con:endpoint>https://petstore.swagger.io</con:endpoint>
             <con:request>{
-	"id": 78123,
-	"name": "Monkey",
+	"id": 22334,
+	"name": "Alladi",
 	"status": "alive"
 }</con:request>
             <con:originalUri>https://petstore.swagger.io/v2/pet</con:originalUri>
