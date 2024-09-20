@@ -96,7 +96,7 @@
           <con:mediaType>application/json</con:mediaType>
           <con:status>200</con:status>
           <con:params/>
-          <con:element xmlns:ns="https://petstore.swagger.io/v2/pet/1013">ns:Response</con:element>
+          <con:element xmlns:ns="https://petstore.swagger.io/v2/pet/1221">ns:Response</con:element>
         </con:representation>
         <con:representation type="REQUEST">
           <con:mediaType>application/json</con:mediaType>
@@ -133,8 +133,8 @@
             </con:settings>
             <con:endpoint>https://petstore.swagger.io</con:endpoint>
             <con:request>{
-  "id": 1013,
-  "name": "Master Shifu",
+  "id": 1221,
+  "name": "Snoopy",
   "status": "sold"
 }</con:request>
             <con:originalUri>https://petstore.swagger.io/v2/pet</con:originalUri>
@@ -218,7 +218,7 @@
             </con:settings>
             <con:endpoint>https://petstore.swagger.io</con:endpoint>
             <con:request/>
-            <con:originalUri>https://petstore.swagger.io/v2/pet/1013</con:originalUri>
+            <con:originalUri>https://petstore.swagger.io/v2/pet/1221</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="c088a690-0164-4577-b763-305d4f33b572" name="Valid HTTP Status Codes">
               <con:settings/>
               <con:configuration>
@@ -231,7 +231,7 @@
             </con:credentials>
             <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
             <con:parameters>
-              <con:entry key="petId" value="1013"/>
+              <con:entry key="petId" value="1221"/>
             </con:parameters>
             <con:parameterOrder>
               <con:entry>petId</con:entry>
@@ -251,7 +251,7 @@
             <con:configuration>
               <check><![CDATA[<xml-fragment><con:entry xmlns:con="http://eviware.com/soapui/config">true</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">true</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">true</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">true</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">false</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">false</con:entry></xml-fragment>]]></check>
               <row><![CDATA[<xml-fragment><con:entry xmlns:con="http://eviware.com/soapui/config">2033</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">Leo</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">alive</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config"/></xml-fragment>]]></row>
-              <row><![CDATA[<xml-fragment><con:entry xmlns:con="http://eviware.com/soapui/config">1013</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">Shifu</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">alive</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config"/></xml-fragment>]]></row>
+              <row><![CDATA[<xml-fragment><con:entry xmlns:con="http://eviware.com/soapui/config">1221</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">Shifu</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">alive</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config"/></xml-fragment>]]></row>
               <row><![CDATA[<xml-fragment><con:entry xmlns:con="http://eviware.com/soapui/config">7949</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">Tribby</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">alive</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config"/></xml-fragment>]]></row>
               <row><![CDATA[<xml-fragment><con:entry xmlns:con="http://eviware.com/soapui/config">2039</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">Baloo</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config">alive</con:entry><con:entry xmlns:con="http://eviware.com/soapui/config"/></xml-fragment>]]></row>
               <row><![CDATA[<xml-fragment><con:entry xmlns:con="http://eviware.com/soapui/config"/><con:entry xmlns:con="http://eviware.com/soapui/config"/><con:entry xmlns:con="http://eviware.com/soapui/config"/><con:entry xmlns:con="http://eviware.com/soapui/config"/></xml-fragment>]]></row>
@@ -360,7 +360,7 @@
             </con:settings>
             <con:endpoint>https://petstore.swagger.io</con:endpoint>
             <con:request/>
-            <con:originalUri>https://petstore.swagger.io/v2/pet/1013</con:originalUri>
+            <con:originalUri>https://petstore.swagger.io/v2/pet/1221</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="c088a690-0164-4577-b763-305d4f33b572" name="Valid HTTP Status Codes">
               <con:settings/>
               <con:configuration>
@@ -511,7 +511,7 @@
             </con:settings>
             <con:endpoint>https://petstore.swagger.io</con:endpoint>
             <con:request/>
-            <con:originalUri>https://petstore.swagger.io/v2/pet/1013</con:originalUri>
+            <con:originalUri>https://petstore.swagger.io/v2/pet/1221</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="c088a690-0164-4577-b763-305d4f33b572" name="Valid HTTP Status Codes">
               <con:settings/>
               <con:configuration>
